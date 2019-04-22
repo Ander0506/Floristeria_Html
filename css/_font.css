@@ -1,0 +1,10 @@
+:root{
+    --Kaushan: 'Kaushan Script', cursive;
+    --Bad: 'Bad Script', cursive;
+}
+
+.text-menu{
+    font-family: var(--Kaushan);
+    font-size: 1.2rem;
+    text-shadow: 4px 2px 3px #dcdaff;
+}
