@@ -1,10 +1,12 @@
 :root{
     --Kaushan: 'Kaushan Script', cursive;
     --Bad: 'Bad Script', cursive;
+    --Opensans: 'Open Sans', sans-serif;
 }
 
 .text-menu{
-    font-family: var(--Kaushan);
-    font-size: 1.2rem;
-    text-shadow: 4px 2px 3px #dcdaff;
+    font-family: var(--Opensans);
+    font-size: 0.9rem;
+    color: #5454d3 !Important;
+    font-weight: 600;
 }

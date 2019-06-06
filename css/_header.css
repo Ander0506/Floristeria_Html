@@ -3,4 +3,15 @@
     width: 225px;
 }
 
-.rgba-black-strong
+.dinamic:hover{
+    background-color: #ff0c5c;
+    border-radius: 1.5rem;
+    color: white !Important;
+}
+
+.active{
+    
+    background-color: #ff0c5c;
+    border-radius: 1.5rem;
+    color: white !Important;
+}
