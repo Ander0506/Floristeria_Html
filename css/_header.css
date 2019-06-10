@@ -10,8 +10,7 @@
 }
 
 .active{
-    
     background-color: #ff0c5c;
-    border-radius: 1.5rem;
+    border-radius: 2rem;
     color: white !Important;
 }

@@ -1,0 +1,13 @@
+.row{
+    margin: 0 !Important;
+}
+
+.Background-Principal{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-image: url(../img/Bg_1.jpg);
+    background-size: cover;
+    height: 100vh;
+}

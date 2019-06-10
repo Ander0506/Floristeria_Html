@@ -7,6 +7,6 @@
 .text-menu{
     font-family: var(--Opensans);
     font-size: 0.9rem;
-    color: #5454d3 !Important;
+    color: #5454d3;
     font-weight: 600;
 }
