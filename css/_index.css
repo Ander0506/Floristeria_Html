@@ -7,7 +7,36 @@
     top: 0;
     left: 0;
     right: 0;
-    background-image: url(../img/Bg_1.jpg);
-    background-size: cover;
-    height: 100vh;
+    bottom: 0;
+    background-image: url(../img/Bg_1.png);
+    background-size: 100% 100%;
+    height: 108%;
+}
+
+.Rotate-180{
+    transform: rotate(180deg);
+}
+
+.Text-Absolute{
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+}
+
+.Img-Absolute{
+    position: absolute;
+    bottom: 40px;
+}
+
+.Img-Arrow{
+    height: 20px;
+    margin-top: 3px;
+}
+
+.Color-Button-Galery{
+    background-color: #d33382;
+}
+
+.Card-Galery{
+    height: 140px;
 }

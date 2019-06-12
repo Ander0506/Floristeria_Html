@@ -4,9 +4,42 @@
     --Opensans: 'Open Sans', sans-serif;
 }
 
+@font-face{
+    font-family: Sweet_Sensations;
+    src: url('../font/sweet sensations/sweet-sensations-personal-use.regular.ttf');
+}
+
 .text-menu{
     font-family: var(--Opensans);
     font-size: 0.9rem;
     color: #5454d3;
     font-weight: 600;
+}
+
+.Title-Index{
+    font-family: 'Sweet_Sensations';
+    font-size: 40pt;
+    color: #1c1833;
+}
+
+.Subtitle-Index{
+    font-family: var(--Opensans);
+    font-size: 0.95rem;
+    color: #535165;
+    font-weight: 400;
+}
+
+.Text-Title-Arreglos{
+    font-family: var(--Opensans);
+    font-size: 0.75rem;
+    color: #283a7f;
+    font-weight: 700;
+}
+
+.Text-Button-Galery{
+    font-family: var(--Opensans);
+    font-size: 0.85rem;
+    color: white;
+    font-weight: 600;
+    line-height: 25px;
 }
