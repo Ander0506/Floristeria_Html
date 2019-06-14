@@ -14,3 +14,13 @@
     border-radius: 2rem;
     color: white !Important;
 }
+
+.dinamic.sub{
+    background-color: #918ff83b;
+    border-radius: 1.5rem;
+    color: white !Important;
+}
+
+.dinamic.sub.active{
+    background-color: #ff0c5c;
+}

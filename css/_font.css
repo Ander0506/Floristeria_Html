@@ -43,3 +43,17 @@
     font-weight: 600;
     line-height: 25px;
 }
+
+.Footer-Title{
+    font-family: var(--Opensans);
+    font-size: 1.1rem;
+    color: #c1c1c1;
+    font-weight: 600;
+}
+
+.Footer-Description a{
+    font-family: var(--Opensans);
+    font-size: 0.9rem;
+    color: #848484 !important;
+    font-weight: 600;
+}

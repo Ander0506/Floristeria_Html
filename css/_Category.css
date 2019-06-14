@@ -1,0 +1,28 @@
+.Card-Galery-sub{
+    height: auto;
+    padding: 5px;
+}
+
+.Content-Img{
+    max-height: 130px;
+    align-items: center;
+    display: flex;
+}
+
+.Card-Galery-sub img{
+    height: auto;
+    width: 130px;
+    margin: 0 auto;
+}
+
+.Background-Category{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url(../img/Bg_2.png);
+    background-size: 100% 100%;
+    height: 108%;
+    z-index: -1;
+}
