@@ -22,6 +22,12 @@
     color: #1c1833;
 }
 
+.Title-Contact{
+    font-family: 'Sweet_Sensations';
+    font-size: 40pt;
+    color: #283a7f;
+}
+
 .Subtitle-Index{
     font-family: var(--Opensans);
     font-size: 0.95rem;
@@ -56,4 +62,10 @@
     font-size: 0.9rem;
     color: #848484 !important;
     font-weight: 600;
+}
+
+.Label-Contact{
+    font-family: var(--Opensans) !Important;
+    color: #4a5ca8 !Important;
+    font-size: 11pt !Important;
 }

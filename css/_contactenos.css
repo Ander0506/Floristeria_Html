@@ -1,0 +1,39 @@
+.Background-contactenos{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url(../img/Bg_3.png);
+    background-size: 100% 100%;
+    height: 108%;
+    z-index: -1;
+}
+
+.btn-submit{
+    color: white;
+    background-color: #00e09e;
+    padding: 5% 20%;
+    font-size: 1rem;
+    border-radius: 3rem;
+    width: 140px;
+}
+
+.content-contact{
+    border-radius: 10px;
+}
+
+.md-form input[type=text]:focus:not([readonly]){
+    -webkit-box-shadow: 0 1px 0 0 #26c698;
+    box-shadow: 0 1px 0 0 #26c698;
+    border-bottom: 1px solid #26c698;
+}
+
+.form-control:focus{
+    color: #283a7f;
+}
+
+.Label-Contact.active {
+    background-color: transparent;
+    font-size: 8pt !Important;
+}
