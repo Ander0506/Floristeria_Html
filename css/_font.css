@@ -69,3 +69,31 @@
     color: #4a5ca8 !Important;
     font-size: 11pt !Important;
 }
+
+.Title-Conocenos{
+    font-family: var(--Opensans);
+    font-size: 2.5rem;
+    color: #8080d8;
+    font-weight: 500;
+}
+
+.Title-Conocenos02{
+    font-family: var(--Opensans);
+    font-size: 1.5rem;
+    color: #8080d8;
+    font-weight: 500;
+}
+
+.Description-Conocenos{
+    font-family: var(--Opensans);
+    font-size: 1.2rem;
+    color: black;
+    font-weight: 400;
+}
+
+.Description-Conocenos02{
+    font-family: var(--Opensans);
+    font-size: 1rem;
+    color: black;
+    font-weight: 400;
+}
