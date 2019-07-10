@@ -40,3 +40,37 @@
 .Card-Galery{
     height: 140px;
 }
+
+#preloader{
+    position: absolute;
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 1000;
+}
+
+#loader{
+    position: absolute;
+    width: 40vw;
+    margin-left: -20vw;
+    margin-top: -20vh;
+    height: 40vh;
+    top: 50vh;
+    left: 50vw;
+    z-index: 1001;
+}
+
+#loader2{
+    position: absolute;
+    width: 22vw;
+    margin-left: -11.2vw;
+    margin-top: -11vh;
+    height: 22vh;
+    top: 50vh;
+    left: 50vw;
+    z-index: 1001;
+}
